@@ -1,2 +1,2 @@
-# noManLand
-noManLand
+# hello-world
+Hello world new project template.
